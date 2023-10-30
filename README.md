@@ -2,7 +2,7 @@
 In this project we try to solve classical optimization tasks and realize Simplex and Interior-point algorithms. \
 You can test our code in Live on replit platform: https://replit.com/@IvanGolov/Optimization-linear-programming-Assignment2?v=1 \
 \
-**WARNING!!! When you test our code on replit write all double point use . (like 242.132)** \
+**WARNING!!! When you test our code on Replit write all double point use . (like 242.132)** \
 **WARNING!!! When you test our code on Java IDEA write all double point use , (like 242,132)**
 # Manual
 1. git clone https://github.com/IVproger/Optimization-linear-programming-Assignment2.git
