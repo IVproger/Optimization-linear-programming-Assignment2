@@ -2,6 +2,12 @@
 In this project we try to solve classical optimization tasks and realize Simplex and Interior-point algorithms. \
 You can test our code in Live on replit platform: 
 
+# Manual
+1. git clone https://github.com/IVproger/Optimization-linear-programming-Assignment2.git
+2. cd Optimization-linear-programming-Assignment2
+3. javac Main.java
+4. java Main
+
 # Tests
 
 ## Test 1
